@@ -1,0 +1,28 @@
+const Images = {
+  bg: require('./bg.png'),
+  tb1: require('./thumbnail_1.png'),
+  tb2: require('./thumbnail_2.png'),
+  tb3: require('./thumbnail_3.png'),
+  tb4: require('./thumbnail_4.png'),
+  startLarning: require('./start_learning.png'),
+  cardImg: require('./featured_bg_image.png'),
+  bg1: require('./bg_1.png'),
+  bg2: require('./bg_2.png'),
+  bg3: require('./bg_3.png'),
+  bg4: require('./bg_4.png'),
+  bg5: require('./bg_5.png'),
+  bg6: require('./bg_6.png'),
+  profile: require('./profile.png'),
+  mobile: require('./mobile_image.png'),
+  stud1: require('./student_1.png'),
+  stud2: require('./student_2.png'),
+  stud3: require('./student_3.png'),
+  doc: require('./doc.png'),
+  pdf: require('./pdf.png'),
+  sketch: require('./sketch.png'),
+  linkdin: require('./link.png'),
+  twitter: require('./twitter.png'),
+  work: require('./work.png'),
+};
+
+export default Images;
